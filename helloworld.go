@@ -19,5 +19,6 @@ func main() {
 	//GoLangBasic.StructMethod()
 	//GoLangBasic.Interface()
 	//GoLangBasic.InnerFunc()
-	GoLangBasic.Goroutine()
+	//GoLangBasic.Goroutine()
+	GoLangBasic.Channel()
 }

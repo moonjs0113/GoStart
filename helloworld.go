@@ -13,9 +13,11 @@ func main() {
 	//W3School.Structures()
 	//W3School.Maps()
 
-	// golang.site
-	// GoLangBasic.PublicFunc()
-	// GoLangBasic.privateFunc() private 이라 실행 안됨
+	//golang.site Code
+	//GoLangBasic.PublicFunc()
+	//GoLangBasic.privateFunc() private 이라 실행 안됨
 	//GoLangBasic.StructMethod()
-	GoLangBasic.Interface()
+	//GoLangBasic.Interface()
+	//GoLangBasic.InnerFunc()
+	GoLangBasic.Goroutine()
 }

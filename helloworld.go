@@ -7,7 +7,10 @@ func main() {
 	//Variable()
 	//Output()
 	//Array()
-	Condtions()
+	//CondtionsAndLoop()
+	Functions()
+	Structures()
+	Maps()
 }
 
 func Variable() {

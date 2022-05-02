@@ -1,4 +1,4 @@
-package main
+package W3School
 
 import "fmt"
 

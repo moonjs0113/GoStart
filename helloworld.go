@@ -4,9 +4,10 @@ package main
 import "fmt"
 
 func main() {
-	Variable()
-	Output()
-	Array()
+	//Variable()
+	//Output()
+	//Array()
+	Condtions()
 }
 
 func Variable() {
